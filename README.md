@@ -1,2 +1,2 @@
 # git-command-sequence
-# commit 2
+# commit 4
